@@ -91,6 +91,11 @@
     "BLACK_500": "#000000b2",
     "ROLE_DEFAULT": "#8e9297"
   },
+  "background": {
+    "blur": 2.0,
+    "url": "https://i.postimg.cc/NFwL5Gk1/118592-space-phone-wallpaper-top-free-space-phone-background.png",
+    "OPACITY": 0
+  },
   "plus": {
     "version": "0",
     "iconPack": "default",
