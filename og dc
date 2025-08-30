@@ -70,7 +70,7 @@
     "TEXT_NORMAL": ["#c8c9cb"],
     "TEXT_PRIMARY": ["#ffffff"],
     "TEXT_SECONDARY": ["#a0a3a8"],
-    "BG_MOD_FAINT": ["#ffffff0a"],
+    "BG_MOD_FAINT": ["#000001"],
     "KEYBOARD": ["#0a0a0c"],
     "BACKGROUND_MODIFIER_ACCEPT": ["#43b58133"],
     "BACKGROUND_MODIFIER_ACCEPT_HOVER": ["#43b5814d"],
@@ -94,7 +94,7 @@
   "background": {
     "blur": 0.0,
     "url": "https://i.postimg.cc/QdCQ6fnG/image0.jpg",
-    "OPACITY": 0.01
+    "OPACITY": 0.1
   },
   "plus": {
     "version": "1",
