@@ -12,7 +12,7 @@
     "ANDROID_RIPPLE": ["#2b6cb0"],
     "CHAT_BACKGROUND": ["#0f1117"],
     "BACKGROUND_ACCENT": ["#3182ce"],
-    "BACKGROUND_FLOATING": ["#1a202c"],
+    "BACKGROUND_FLOATING": ["transparent"],
     "BACKGROUND_MENTIONED": ["rgba(49,130,206,0.1)"],
     "BACKGROUND_MENTIONED_HOVER": ["rgba(49,130,206,0.15)"],
     "BACKGROUND_MESSAGE_HOVER": ["#ffffff0a"],
