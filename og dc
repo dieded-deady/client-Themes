@@ -94,7 +94,7 @@
   "background": {
     "blur": 0.0,
     "url": "https://i.postimg.cc/QdCQ6fnG/image0.jpg",
-    "OPACITY": 0.1
+    "OPACITY": 0.01
   },
   "plus": {
     "version": "1",
