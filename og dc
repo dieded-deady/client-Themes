@@ -91,11 +91,6 @@
     "BLACK_500": "#000000b2",
     "ROLE_DEFAULT": "#63b3ed"
   },
-  "background": {
-    "blur": 0.0,
-    "url": "",
-    "OPACITY": 0.0
-  },
   "plus": {
     "version": "1",
     "iconPack": "default",
