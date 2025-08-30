@@ -10,7 +10,7 @@
   ],
   "semanticColors": {
     "ANDROID_RIPPLE": ["#3a3a3a"],
-    "CHAT_BACKGROUND": ["#0b0c0f"],
+    "CHAT_BACKGROUND": ["#000001"],
     "BACKGROUND_ACCENT": ["#6a4bcf"],
     "BACKGROUND_FLOATING": ["#111216"],
     "BACKGROUND_MENTIONED": ["rgba(106,75,207,0.1)"],
@@ -94,10 +94,10 @@
   "background": {
     "blur": 0.0,
     "url": "https://i.postimg.cc/QdCQ6fnG/image0.jpg",
-    "OPACITY": 10.0
+    "OPACITY": 0.0
   },
   "plus": {
-    "version": "0",
+    "version": "1",
     "iconPack": "default",
     "mentionLineColor": "#6a4bcf"
   },
